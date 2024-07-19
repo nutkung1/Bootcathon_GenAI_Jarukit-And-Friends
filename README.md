@@ -76,4 +76,4 @@ Start the server
 
 ## :envelope_with_arrow:Feedback
 
-If you have any feedback, please reach out to us at sikares.n@gmail.com
+If you have any feedback, please reach out to us at suchanat.rata@gmail.com
